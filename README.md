@@ -31,6 +31,8 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
 provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
 
+
+
 * [_CheckIO_](https://checkio.org/) Coding games for beginners and advanced programmers where you can improve your 
 coding skills by solving engaging challenges and fun task using Python, has PyCharm integration.
 
@@ -321,3 +323,7 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+* [ww3school] (https://www.w3schools.com/python/) Great web for Python enthusiats
+* [udemy] (https://www.udemy.com/course/complete-python-bootcamp/) Best course on Udemy
+* [Mimo] (https://getmimo.com/) Best app to learn coding!
+
