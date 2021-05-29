@@ -323,7 +323,7 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
-* [ww3school] (https://www.w3schools.com/python/) Great web for Python enthusiats
+* [ww3school] (https://www.w3schools.com/python/) Great web for Python enthusiast
 * [udemy] (https://www.udemy.com/course/complete-python-bootcamp/) Best course on Udemy
 * [Mimo] (https://getmimo.com/) Best app to learn coding!
 
